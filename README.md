@@ -1,4 +1,2 @@
-## Books for CS
+## Textbooks I refuse to pay for
 
-Don't share this repository in Cover support chats.
-Those chats are managed by TA's.
